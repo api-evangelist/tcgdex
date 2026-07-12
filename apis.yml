@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://www.tcgdex.net/docs
 common:
+  - type: DomainSecurity
+    url: security/tcgdex-domain-security.yml
   - type: Website
     url: https://www.tcgdex.net/docs
   - type: PublicAPIsListing
