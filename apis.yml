@@ -33,13 +33,13 @@ x-category: "Games & Comics"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Games And Comics
   - Public APIs
+  - Gaming
+  - Card Games
 apis:
   - name: TCGdex
     description: "Multi languages Pokémon TCG Information"
     humanURL: https://www.tcgdex.net/docs
-    baseURL: https://www.tcgdex.net/docs
     tags:
       - Games And Comics
     properties:
@@ -55,3 +55,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Games And Comics
