@@ -40,7 +40,8 @@ apis:
   - name: TCGdex
     description: "Multi languages Pokémon TCG Information"
     humanURL: https://www.tcgdex.net/docs
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
