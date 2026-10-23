@@ -44,3 +44,16 @@
     detected: '2026-10-22'
   status: not-a-workflow
   arazzo: null
+- slug: tcgdex-discord-discord-app-directory
+  label: Discord (discord-app-directory)
+  partner: discord
+  partner_name: Discord (discord-app-directory)
+  category: Games, Entertainment
+  type: marketplace
+  marketplace: discord-app-directory
+  channel: partner-built
+  evidence: https://discord.com/discovery/applications/465978667022024704
+  source: edge
+  relationship: platform-app
+  status: not-a-workflow
+  arazzo: null
